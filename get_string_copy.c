@@ -13,5 +13,5 @@ int main(void)
 
 char get_string(char s[30])
 {
-    printf(" ");
+    
 }
