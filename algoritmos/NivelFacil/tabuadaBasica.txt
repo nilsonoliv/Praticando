@@ -1,0 +1,29 @@
+programa
+{
+	funcao inicio ()
+	{
+		inteiro contador, limite, valor, resultado
+		contador = 0
+		limite = 100
+		escreva("Você quer a tabuada de qual número? ")
+		leia(valor)
+		faca 
+		{
+			resultado = valor * contador
+			escreva(valor + " × " + contador + "=" + resultado + "\n")
+			contador ++
+		} enquanto(contador <= limite)
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

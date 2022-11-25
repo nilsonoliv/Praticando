@@ -1,0 +1,35 @@
+//Algoritmo que adiciona nomes em uma lista, depois faz uma busca por um nome escolhido por input.
+
+algorimo "BuscaSimples"
+
+VAR 
+names:vetor[1...5] de literal
+pesquisa:literal
+i:inteiro
+sucesso:inteiro
+
+INICIO
+
+para i de 1 ate 5 faca
+Escreval("informe o nome a cadastrar: ")
+leia(names[i])
+fimpara
+limpatela
+
+Escreval("informe um nome a pesquisar: ")
+leia(pesquisa)
+
+sucesso <- 0
+
+para i de 1 ate 5 faca 
+se nomes[i] = pesquisa entao
+sucesso <- 1
+fimse
+fimpara
+
+se sucesso = 1 entao
+Escreval("Cliente enconrado")
+fimse
+fimpara
+fimalgoritmo
+

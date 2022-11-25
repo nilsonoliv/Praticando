@@ -1,0 +1,29 @@
+//algorimo exemplo do metodo bolha
+
+Algoritmo "BolhaAlgoritmo"
+
+VAR
+numeros: vetor[1...10] inteiro
+i,j,aux: inteiro
+
+INICIO
+
+para i de 1 ate 10 faca
+Escreval("informe um numero: ")
+leia(numeros[i])
+fimpara
+
+//metodo bolha
+
+para i de 1 ate 10 faca
+para j de 1 ate 10 faca 
+se numeros[j]>numeros[i] entao
+ aux <- numeros[i]
+ numeros[i] <- numeros[j]
+ numeros[j] <- aux
+
+ fimse 
+ fimpara
+ fimpara
+
+ fimalgoritmo

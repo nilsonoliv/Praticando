@@ -1,0 +1,24 @@
+//trabalhando com vetores (array)
+// cria um array, adiciona valores a ela, depois cria outra array e adiciona os valores 
+    da array anterior, porém na ordem invertida
+
+Algoritmo "vetores"
+
+VAR
+numeros, numerosReversos:vetor[1...10] de inteiro
+indice, aux:inteiro
+
+INICIO
+
+para i de 1 ate 10 faca
+Escreval("Numero ",i," : ")
+leia(numeros[i])
+fimpara
+
+aux <- 11
+
+para i de 1 ate 10 faca
+numerosReversos (aux-i) <- numeros[i]
+fimpara
+
+fimalgoritmo
