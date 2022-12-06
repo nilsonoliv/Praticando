@@ -1,0 +1,23 @@
+ALGORITMO "CadastroClientes"
+
+VAR
+opcaoMenu : literal
+clientes : vetor[1...5] de literal
+
+PROCEDIMENTO mostrarMenu ()
+inicio
+    Escreval("1-Cadastrar")
+    Escreval("2-Pesquisar")
+    Escreval("3-Excluir")
+    leia(opcaoMenu)
+FIMPROCEDIMENTO
+
+PROCEDIMENTO Cadastrar()
+inicio
+    i: de inteiro
+    para i de 1 ate 5 faca
+        se clientes[i] = "" entao
+            Escreval("Informe o nome do cliente")
+            leia(clientes[i])
+
+            ?????
