@@ -1,0 +1,94 @@
+Descrição
+Historia
+
+ La empresa AluraGeek necesita llegar a más clientes y aumentar su nivel de ventas, 
+por lo que quieren implementar un e-commerce, llevar a la empresa al siguiente nivel 
+y volverse más digital.
+
+ Para ello están pidiendo nuestra ayuda como desarrolladores, el e-commerce debe 
+contener los siguientes requisitos:
+ - Una página de inicio que contiene un botón de inicio de sesión y un motor de búsqueda 
+de productos ofrecidos por la empresa.
+ - Un banner que contenga descuentos, promociones o informaciónes relevante del momento.
+ - Una galería con información del producto, como imagen, nombre del producto, precio 
+y un enlace a la página de descripción del producto.
+ - Una página de producto que contiene la imagen, el nombre, la descripción y el precio.
+ - Un pie de página con un formulario de contacto y otras informaciónes relevantes.
+ - Un formulário de iniciar sesión para autenticar a los usuarios que quieran acceder 
+al menu administrador.
+ - Menú de administrador para que puedan agregar, editar, buscar o eliminar productos 
+de la tienda.
+
+Es muy importante que el sitio sea adaptable para que los clientes puedan comprar fácilmente 
+a través de dispositivos móviles.
+
+
+ Validación formulario hable con nosotros-Rodapié
+ El formulario de contacto debe contener algunas validaciones como:
+
+Campo de nombre: máximo 40 caracteres.
+Campo de mensaje: máximo 120 caracteres.
+Validación para que los campos no queden vacíos o en blanco.
+Debe mostrar al usuario los mensajes de error en caso de que no se cumplan las validaciones.
+Botón Enviar mensaje: envía el mensaje si el formulario está correctamente cumplimentado.
+
+
+ Validación de formulario - Iniciar sesión
+El formulario debe permitir el acceso a usuarios autenticados en el sistema, no olvide que el formulario debe tener validaciones de campo.
+
+Campo de correo electrónico: no debe estar en blanco ni vacío.
+Debe estar en formato de correo electrónico que contenga el carácter especial @ seguido de un dominio o proveedor seguido de un punto (.)
+Ejemplo: text@text.com
+Campo de contraseña: no debe estar en blanco ni vacío.
+Botón de inicio de sesión: si el usuario está autenticado, debe redirigir al menú de administrador, de lo contrario debe mostrar un mensaje de error.
+
+
+Validación de formulario - Agragar nuevo producto
+La sección de agregar producto debe contener las siguientes validaciones:
+
+Agregar campo de imagen y Botón para buscar imagen en la computadora: -- Debe permitir al usuario cargar una imagen.
+Campo para nombre de producto: debe tener un máximo de 20 caracteres.
+Campo para precio del producto: el usuario solo puede ingresar números.
+Campo para descripción del producto: debe tener un máximo de 150 caracteres.
+Botón Añadir producto: si el formulario está completado correctamente se añadirá el producto, en caso contrario debería mostrar un mensaje de error.
+Recordando que ninguno de los campos debe estar en blanco o vacío.
+
+
+Barra de Búsqueda - CRUD
+La barra de búsqueda de itens de la tienda, debe filtrar los itens por el nombre del producto
+
+En caso de que necesites ayuda, sugerimos
+Curso Online JS en la Web: CRUD con JavaScript asíncrono | Alura y dejamos una pequeña sugestión, si podemos filtrar nuestros productos por id ¿Será posible filtrar por nombre también?
+
+Ver Todo - CRUD 
+Al hacer clic en el enlace ver todo, el usuario debería poder ver todos los productos ofrecidos por la tienda.
+
+
+Agragar nuevo producto - CRUD
+Utilizando los conocimientos adquiridos en el curso Curso Online JS en la Web: CRUD con JavaScript asíncrono | Alura
+es momento de adicionar un nuevo producto para nuestro e-commerce.
+
+
+Borrar producto - CRUD
+Descrição
+Utilizando los conocimientos adquiridos en el curso Curso Online JS en la Web: CRUD con JavaScript asíncrono | Alura
+es momento de borrar algún producto registrado en nuestro e-commerce.
+
+Para el desarrollo de esta actividad la siguiente aula podría serte de ayuda
+- https://app.aluracursos.com/course/js-web-crud-javascript-asincrono/task/77103
+
+
+Editar producto existente - CRUD
+Utilizando los conocimientos adquiridos en el curso Curso Online JS en la Web: CRUD con JavaScript asíncrono | Alura
+es momento de editar un producto existente en nuestro e-commerce.
+
+Para el desarrollo de esta actividad las siguientes aulas podrían serte de ayuda
+- https://app.aluracursos.com/course/js-web-crud-javascript-asincrono/task/77108
+- https://app.aluracursos.com/course/js-web-crud-javascript-asincrono/task/77109
+
+
+
+
+Buen proyecto!
+
+

@@ -1,0 +1,8 @@
+Estamos en nuestro segundo día de nuestro +10 días en ONE.
+
+¿Listo para un ejercicio que te hará romper un poco la cabeza? Usando la instrucción while, imprime todos los números pares del 1 al 100 y al final imprime la palabra "FIN".
+
+¿No sabes cómo realizar estos ejercicios? El curso Curso Online Lógica de programación: Conceptos primordiales | Alura puede ayudarte y para finalizar no olvides actualizar tus tarjetas de trello y compartir lo que has hecho con la comunidad en nuestro canal Discord.
+
+¡Nos vemos en los próximos desafíos!
+

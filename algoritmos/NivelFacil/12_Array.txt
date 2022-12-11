@@ -1,0 +1,7 @@
+¡Hola Dev!
+Hoy nuestro desafío es ayudar a los instructores con una tarea. En un archivo Javascript, hay un array de instructores de Alura:
+
+var nombres = ["Christian","Diego","Priscila","Elizabeth","Gustavo","Ana"];
+Recorra el array usando el método forEach() e imprima un mensaje con el nombre de cada instructor seguido de un texto “es instructor de Alura.”.
+
+Comparte tu solución con tus colegas en nuestra comunidad en Discord y no olvides actualizar tus tarjetas en tu tablero de trello.

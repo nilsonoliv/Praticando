@@ -1,0 +1,9 @@
+Hola Dev ¿Cómo están siendo estos primeros días de desafíos?
+
+El desafío del día de hoy es muy divertido, escoge la bandera que más te guste e dibujala usando canvas de javascript.
+
+Si no sabes como dibujar tu bandera el curso Curso Online Lógica de programación: Practicando con juegos y animaciones | Alura es fundamental.
+
+Recuerda actualizar tus tarjetas de trello y compartir lo que has hecho con la comunidad en nuestro canal Discord.
+
+¡Hasta el próximo desafío

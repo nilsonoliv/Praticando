@@ -1,0 +1,90 @@
+Descrição
+¡Bienvenido al primer desafío del Challenge Fron End!
+
+En esta sprint, vamos a trabajar en la construcción de un Portafolio, para que puedas mostrar tus proyectos a posibles reclutadores.
+
+Requisitos:
+
+Debe tener un menú de navegación.
+Debe tener una imagen que se utilizará como banner.
+Debe contener una sección sobre mí.
+
+Debe tener una foto de perfil.
+Debe incluir enlaces a sus redes sociales.
+Debe tener sus datos personales:
+
+ 1) Nombre
+ 2) Edad
+ 3) Nacionalidad
+ 4) Biografía
+Debe tener una sección de Hobbies y Soft Skills
+Por ejemplo:
+Pasatiempos: actividades que disfruta hacer.
+Habilidades blandas: comunicación, liderazgo, empatía …
+
+Debe tener una sección de formación y cursos.
+Aquí puedes poner las formaciones y cursos que has realizado, aunque no esté en el área de programación.
+Debe tener experiencia en la sección de programación.
+Aquí puedes poner los proyectos que ya has realizado anteriormente, como por ejemplo: los proyectos del retador principiante en programación.
+Debe tener un formulario de contacto con los siguientes campos
+       1) Correo electrónico
+       2) Nombre
+       3) Asunto
+       4) Mensaje
+Debe tener un Pie de página con la información de la persona que desarrolló el portafolio.
+Es de extrema importancia que el portafolio sea responsivo, lo que quiere decir que debe adaptarse a los diferentes tamaños de pantallas, pudiendo ser desktop, tablet o celular.
+Importante: Todas las imagenes estaran disponible en el Figma para hacer descarga.
+
+ Debes tener:
+* Menu principal
+* Sección presentación
+* Sección-Sobre mi
+* Sección Skills y Hobbies
+* Sección-Formaciones y cursos
+* Sección experiencia en programación 
+* Formulario de contacto
+
+Validación der formulario de contacto - Campo Nombre
+Ahora que tenemos nuestro portafolio estilizado vamos a validar las entradas en el formulario para tener una sesión de contacto funcional. Empecemos por la entrada "Nombre":
+
+ * Campo Nombre no debe estar en blanco o vacío.
+ * Debe contener máximo 50 caracteres.
+ * Mostrar mensaje de error específico cuando alguna de estas condiciones no sea cumplida
+
+
+Validación del formulario de contacto - Campo Correo Electrónico
+Ahora vamos a validar las entradas en el formulario relacionadas con el campo de correo electrónico:
+
+ * Campo e-mail no debe estar en blanco o vacío.
+ * Deber estar en formato e-mail conteniendo el caracter especial @ seguido de un dominio o proveedor seguido de un punto(.)
+Ejemplo: texto@texto.com
+ * Mostrar mensaje de error específico cuando alguna de estas condiciones no sea cumplida
+
+
+Validación del formulario de contacto - Campo Asunto
+Ahora vamos a la entrada del formulario en el campo de asunto:
+
+Es muy importante validar los errores en los formularios; si no está bien rellenado, no olvides agregar un mensaje para informar al usuario.
+
+ * Campo Asunto no debe estar en blanco o vacío.
+ * Debe contener máximo 50 caracteres.
+ * Mostrar mensaje de error específico cuando alguna de estas condiciones no sea cumplida
+
+
+Validación del formulario de contacto - Campo Mensaje
+Por último, validaremos las entradas en el campo de mensajes. Nuestro punto de atención aquí es permitir que el usuario vea el mensaje completo al enviarlo, por lo que sugerimos: si usaste un <input/> en la construcción HTML, considera cambiarla por un <textArea/> o trabaja en su estilo:
+
+ * Campo Mensaje no debe estar en blanco o vacío.
+ * Debe contener máximo 300 caracteres.
+ * Mostrar mensaje de error específico cuando alguna de estas condiciones no sea cumplida
+
+
+¡Es el momento de enviar nuestro formulario!
+Puntos de atención: Hasta ahora has descubierto muchos atributos que se pueden utilizar en el <Input/>. Recuerde que para que un formulario realice la tarea de enviar los contenidos introducidos correctamente en las entradas, el botón de confirmación de envío debe estar listo para enviar la solicitud.
+
+ * El botón enviar solo debe ser activado cuando todos los campos del formulário estén llenos
+ * El botón debe enviar el mensaje.
+
+Extras:
+- La página debe contener un botón que le permita ver, en una nueva pestaña, una versión PDF de su currículum.
+

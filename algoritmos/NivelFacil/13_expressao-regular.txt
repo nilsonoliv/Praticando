@@ -1,0 +1,11 @@
+¡Hola, dev! ¡Llegamos a nuestro último desafío de JavaScript!
+
+En esta oportunidad trabajaremos con expresiones regulares, que también son utilizadas por otros lenguajes de programación.
+
+Las expresiones regulares son un tipo especial de texto, que nos ayuda a buscar cadenas, haciéndolo más fácil cuando el término es más largo. Puede ser una búsqueda simple, donde queremos identificar qué nombres contienen ciertas letras; o casos complejos, si queremos buscar si el párrafo contiene la palabra "nombre", por ejemplo, es como cuando los editores de texto buscan una palabra usando el comando "CTRL + F".
+
+Para crear una expresión regular es necesario utilizar la expresión new RegExp(..). ¿Qué parámetros podemos pasar al constructor?
+
+Comparte con la comunidad en Discord una expresión regular creada por ti usando Javascript.
+
+¡Hasta el próximo desafío!
