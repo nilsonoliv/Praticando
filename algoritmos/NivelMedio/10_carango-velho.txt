@@ -1,0 +1,5 @@
+A concessionária de veículos Carango Velho está vendendo os seus veículos com desconto. Faça um algoritmo 
+ que calcule e exiba o valor do desconto e o valor a ser pago pelo cliente. O desconto deverá ser
+ calculado de acordo com o ano do veículo 2000 - 12%  e acima de 2000 - 7%. O sistema deverá perguntar
+ se deseja continuar calculando o desconto aé que a resposta sela "(N) Não". Informar total de carros com ano até 
+ 2000 e o total geral.
