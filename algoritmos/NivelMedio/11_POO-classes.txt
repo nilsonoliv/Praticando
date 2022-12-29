@@ -1,0 +1,15 @@
+	Crie uma classe chamada invoice que possa ser utilizado por uma loja de suprimentos de informática
+para representar uma fatura de um item vendido na loja.Uma fatura deve incluir as seguintes informações
+como atributos:
+
+a. o número do item faturado,
+b. a descrição do item,
+c. a quantidade compreda do item e,
+d. o preço unitário do item.
+
+	Sua classe deve ter um construtor que inicialize os quatro atributos. Se a quantidade não for
+positiva, ela deve ser configurada com zero. se o preço por item por item não for positivo ele deve ser
+configurado como 0.0. Forneça um método set e um método get para cada variável de intância.
+Além disso, forneça um método chamado getInvoceAmount que calcula o valor da fatura (isso é, multiplica a quantidade 
+pelo preço por item) e depois retorna o valorcom um double. Escreva um aplicativo de testeque demonstra as capacidades
+da classe Invoivce.
