@@ -1,0 +1,15 @@
+João sabe a sua média da nota de duas provas mais não sabe da nota da 3ª prova, você consegui ajudá-lo?
+
+ENTRADA
+A primeira linha contém um número inteiro A , indicando a note de uma prova. A segunda linha contém um número
+  inteiro M, indicando a média entre as duas notas das provas.
+
+SAÍDA
+
+ Seu programa deve produzir uma única linha, com apenas um único número inteiro, a nota da outra prova que João 
+  não consegui recordar.
+
+RESTRIÇÕES
+
+* 0 <= A <= 100
+* 0 <= M <= 100
